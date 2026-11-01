@@ -1,0 +1,22 @@
+{
+  "wheel_id": 619,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-109",
+  "project": "fencing-services-toowoomba-red-flags-786ae765f5ce5190a0eabb48e9",
+  "parent_t1_ref": "fencingtoowoomba-154",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing services toowoomba red flags",
+  "intended_url": "https://sitesau.github.io/fencingtoowoomba-109/",
+  "tier": "T2",
+  "writeback_nonce": "5029d8f764b55dec",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-services-toowoomba-929b75ddef14a290dab69f5c5d2dd7219f82/",
+      "anchor": "fencing services toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
